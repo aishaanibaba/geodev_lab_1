@@ -1,4 +1,4 @@
-# Week 3 — Data Preparation and Quality Checks
+# Data Preparation and Quality Checks
 
 ## 1. Coordinate Reference System
 
