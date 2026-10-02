@@ -17,7 +17,7 @@ The following vector datasets were reprojected to EPSG:32631:
 
 The road, drainage and waterbody datasets were clipped to the Lagos State study boundary.
 
-The rainfall data is raster data and is being prepared separately using the same working CRS and Lagos State study extent.
+The rainfall data is raster data and was prepared using the **Clip Raster by Mask Layer** tool under Raster Extraction. The Lagos State boundary was used as the mask layer, and the target CRS for the output raster was set to **WGS 84 / UTM Zone 31N (EPSG:32631)**. The resulting raster was clipped to the Lagos State study area and converted to the selected working CRS.
 
 ## 3. Quality Checks
 
